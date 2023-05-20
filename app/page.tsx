@@ -1,3 +1,4 @@
+import {Posts} from "@/app/components/Posts";
 
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
           I`m <span className="font-bold"> Hakob</span>
         </span>
       </p>
+      <Posts />
     </main>
   )
 }
