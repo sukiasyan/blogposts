@@ -7,7 +7,7 @@ import {Posts} from "@/app/components/Posts";
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: "Hakob's blog",
+  title: "Hakobs blog",
   description: 'Created by Hakob',
 }
 
